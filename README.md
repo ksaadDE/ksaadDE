@@ -1,5 +1,5 @@
 ### Who is ksaadDE ?
-* I am a highly adaptable Cyber Expert. I work in various segments of our field
+* I am a highly adaptable Cyber Expert. I work in various segments of our field (+10 yrs of experience)
 * I provide Information Security, Offensive Cyber Operations, Pen Testing and Red Teaming, Web Dev and Consulting to my customers
 * I love Open Source, FOSS & Business
 * I was born and I am living in 🇩🇪 and I love to speak and listen to 🇩🇪🇬🇧🇺🇸 daily
