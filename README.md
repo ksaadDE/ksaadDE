@@ -7,3 +7,5 @@
 * I love to work 100% remote and globally
 * Over time I learn 🇫🇷🇨🇳🇷🇺 
 * We support our ally 🇺🇦
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
