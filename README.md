@@ -17,6 +17,18 @@
 
 ## Nice to read:
 - ![Writeup: How to use Wekan snap and TLS via HTTPS?](https://github.com/ksaadDE/usefullshellscripts/blob/main/wekan_snap_writeup.md)
+- ![Wekan Snap Writeup TLS at the Wekan repo](https://github.com/wekan/wekan-snap/issues/167)
 
 ## Nice templates
 - ![Python: Quart and Tortoise-ORM](https://github.com/saaditDE/TestTortoiseQuartApp)
+- ![gcc-6 docker-compose compiling stack](https://github.com/saaditDE/gcc6-docker)
+- 
+
+## Some note worthy PRs:
+- ![Signal Desktop fix - Encrypt DB Key in config.json](https://github.com/signalapp/Signal-Desktop/pull/5465)
+- ![DevSec.io - updated dh_params for nginx ansible hardening collection](https://github.com/dev-sec/ansible-collection-hardening/pull/501)
+- ![JWT Token fix - greenape/quart-jwt-extended](https://github.com/greenape/quart-jwt-extended/pull/4]
+- ![Fix TLS Version and Ciphers - Modoboa](https://github.com/modoboa/modoboa-installer/pull/414)
+- ![add http2 to nginx conf - ep-3 Bookingsystem](https://github.com/tkrebs/ep3-bs/pull/510/commits/e4ffdaaa309b162575996de79d5a91e438bba25a)
+- ![Updated modoboa docs - added API route v2-swagger](https://github.com/modoboa/modoboa/pull/2538)
+- ![Updated modoboa certbot renew stuff - Modoboa](https://github.com/modoboa/modoboa-installer/pull/420)
