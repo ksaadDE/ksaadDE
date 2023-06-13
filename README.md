@@ -16,13 +16,13 @@
 - ![My useful (shell) scripts - Repository](https://github.com/ksaadDE/usefullshellscripts)
 
 ## Nice to read:
-- ![Writeup: How to use Wekan snap and TLS via HTTPS?](https://github.com/ksaadDE/usefullshellscripts/blob/main/wekan_snap_writeup.md)
-- ![Wekan Snap Writeup TLS at the Wekan repo](https://github.com/wekan/wekan-snap/issues/167)
+- ![Wekan Snap TLS writeup - WIKI](https://github.com/wekan/wekan/wiki/Local-self-signed-TLS)
+  - ![Wekan Snap TLS issue - REPO](https://github.com/wekan/wekan-snap/issues/167)
 
 ## Nice templates
 - ![Python: Quart and Tortoise-ORM](https://github.com/saaditDE/TestTortoiseQuartApp)
 - ![gcc-6 docker-compose compiling stack](https://github.com/saaditDE/gcc6-docker)
-- 
+ 
 
 ## Some note worthy PRs:
 - ![Signal Desktop fix - Encrypt DB Key in config.json](https://github.com/signalapp/Signal-Desktop/pull/5465)
