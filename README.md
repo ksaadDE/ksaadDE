@@ -17,3 +17,6 @@
 
 ## Nice to read:
 - ![Writeup: How to use Wekan snap and TLS via HTTPS?](https://github.com/ksaadDE/usefullshellscripts/blob/main/wekan_snap_writeup.md)
+
+## Nice templates
+- ![Python: Quart and Tortoise-ORM](https://github.com/saaditDE/TestTortoiseQuartApp)
