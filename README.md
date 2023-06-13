@@ -14,3 +14,6 @@
 - ![ResultCount Scientific Search Engine Crawler - Repository](../../../resultcount_scientific_search_crawler)
 - ![GTK 4 Python Docs - Code Examples - Repository](../../../GTK4PythonExamples)
 - ![My useful (shell) scripts - Repository](https://github.com/ksaadDE/usefullshellscripts)
+
+## Nice to read:
+- ![Writeup: How to use Wekan snap and TLS via HTTPS?](https://github.com/ksaadDE/usefullshellscripts/blob/main/wekan_snap_writeup.md)
