@@ -2,7 +2,7 @@
 * Advanced Cyber Expert (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
 * [Offers Services](#what-are-you-offeringdoing) to customers and having [fun projects](#my-current-projects-of-interest) here
 * born & living in 🇩🇪 (speaking 🇩🇪🇬🇧🇺🇸 every day, learing 🇫🇷🇨🇳🇷🇺 over time)
-* has quite a few [opinions](#do-you-have-any-opinions)
+* has quite a few [opinions & preferences](#any-preferences-or-opinions)
 
 ## What is your activity / are your languages?
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,7 +27,7 @@ Hidden Top langs:
 * * Big Data & Smart data
 * * IT-Coaching
 
-## Do you have any opinions?
+## Any preferences or opinions?
 * FOSS, OS & BUSINESS = <3 
 * prefers working 100% remote and global 
 * in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
