@@ -1,8 +1,13 @@
 ### Who is ksaadDE ?
-* highly-adaptable Cyber Exper (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
-* provides IT-Sec, Offensive Cyber Ops, Pen Testing and Red Teaming, Web Dev and Consulting to customers
-* loves Open Source, FOSS & Business and works everywhere but prefers 100% remote, global work 
-* born & living in 🇩🇪 and loves to speak 🇩🇪🇬🇧🇺🇸 daily and learns 🇫🇷🇨🇳🇷🇺 over time
+* Advanced Cyber Expert (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
+* provides to customers:
+* * IT-Sec, Digital Forensics, Offensive Cyber Ops, OSINT, either Pen Testing or Red Teaming
+* * Linux Admin
+* * Web Development
+* * Consulting
+* loves FOSS, OS & BUSINESS, works everywhere but prefers 100% remote and global work 
+* born & living in 🇩🇪
+* languages: loves to speeak 🇩🇪🇬🇧🇺🇸 daily, learns 🇫🇷🇨🇳🇷🇺 over time
 * in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
 
 ## Stats
