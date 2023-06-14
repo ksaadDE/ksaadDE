@@ -16,13 +16,16 @@ Hidden Top langs:
 
 ## What are you offering/doing?
 * IT-Security
-* * Pen Testing or Red Teaming
+* * Pen Testing & Red Teaming
 * * Digital Forensics
-* * Offensive CyberOps,
+* * Offensive CyberOps
 * OSINT
 * Linux Admin
 * Web Development
-* Consulting
+* IT-Consulting
+* * Data Science
+* * Big Data & Smart data
+* * IT-Coaching
 
 ## Do you have any opinions?
 * FOSS, OS & BUSINESS = <3 
