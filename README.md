@@ -8,8 +8,14 @@
 * Over time I learn 🇫🇷🇨🇳🇷🇺 
 * We support our ally 🇺🇦
 
+## Stats
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+
+Hidden in Toplangs:
+- html (bc too many bytes - docs)
+- java (bc only uni projects)
 
 ## My current projects (of interest)
 - ![ResultCount Scientific Search Engine Crawler - Repository](../../../resultcount_scientific_search_crawler)
