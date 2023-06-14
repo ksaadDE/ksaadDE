@@ -8,6 +8,10 @@
 
 [![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
+Hidden Top langs:
+- HTML (bc takes too much space)
+- Java (bc only Uni projects)
+
 
 ## What are you offering/doing?
 * IT-Security
@@ -23,10 +27,6 @@
 * FOSS, OS & BUSINESS = <3 
 * prefers working 100% remote and global 
 * in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
-
-Hidden in Toplangs:
-- html (bc too many bytes - docs)
-- java (bc only uni projects)
 
 ## My current projects (of interest)
 - ![ResultCount Scientific Search Engine Crawler - Repository](../../../resultcount_scientific_search_crawler)
