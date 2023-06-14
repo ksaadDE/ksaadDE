@@ -1,23 +1,28 @@
 ### Who is ksaadDE ?
 * Advanced Cyber Expert (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
-* I'm offering:
-* * IT-Security
-* * * Digital Forensics
-* * * Offensive CyberOps,
-* * * OSINT
-* * * Pen Testing or Red Teaming
-* * Linux Admin
-* * Web Development
-* * Consulting
-* FOSS, OS & BUSINESS = <3 
-* works everywhere but prefers 100% remote and global 
+* [Offers Services](#) to customers and having fun projects here
 * born & living in 🇩🇪 (speaking 🇩🇪🇬🇧🇺🇸 every day, learing 🇫🇷🇨🇳🇷🇺 over time)
-* in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
 
 ## Stats
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+## What are you offering/doing?
+* IT-Security
+* * Pen Testing or Red Teaming
+* * Digital Forensics
+* * Offensive CyberOps,
+* OSINT
+* Linux Admin
+* Web Development
+* Consulting
+
+## Any opinions?
+* FOSS, OS & BUSINESS = <3 
+* prefers working 100% remote and global 
+* in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
 
 Hidden in Toplangs:
 - html (bc too many bytes - docs)
