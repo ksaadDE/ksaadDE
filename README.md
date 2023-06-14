@@ -3,7 +3,7 @@
 * [Offers Services](#what-are-you-offeringdoing) to customers and having fun projects here
 * born & living in 🇩🇪 (speaking 🇩🇪🇬🇧🇺🇸 every day, learing 🇫🇷🇨🇳🇷🇺 over time)
 
-## Stats
+## What is your activity / are your languages?
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
@@ -23,7 +23,7 @@ Hidden Top langs:
 * Web Development
 * Consulting
 
-## Any opinions?
+## Do you have any opinions?
 * FOSS, OS & BUSINESS = <3 
 * prefers working 100% remote and global 
 * in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
