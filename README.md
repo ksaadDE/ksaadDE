@@ -1,12 +1,9 @@
 ### Who is ksaadDE ?
-* I am a highly adaptable Cyber Expert. I work in various segments of our field (+10 yrs of experience)
-* I provide Information Security, Offensive Cyber Operations, Pen Testing and Red Teaming, Web Dev and Consulting to my customers
-* I love Open Source, FOSS & Business
-* I was born and I am living in 🇩🇪 and I love to speak and listen to 🇩🇪🇬🇧🇺🇸 daily
-* I have a B.Sc. in Informatik (CS+IT)
-* I love to work 100% remote and globally
-* Over time I learn 🇫🇷🇨🇳🇷🇺 
-* We support our ally 🇺🇦
+* highly-adaptable Cyber Exper (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
+* provides IT-Sec, Offensive Cyber Ops, Pen Testing and Red Teaming, Web Dev and Consulting to customers
+* loves Open Source, FOSS & Business and works everywhere but prefers 100% remote, global work 
+* born & living in 🇩🇪 and loves to speak 🇩🇪🇬🇧🇺🇸 daily and learns 🇫🇷🇨🇳🇷🇺 over time
+* in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
 
 ## Stats
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
