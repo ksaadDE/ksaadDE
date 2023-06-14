@@ -1,6 +1,6 @@
 ### Who is ksaadDE ?
 * Advanced Cyber Expert (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
-* [Offers Services](#) to customers and having fun projects here
+* [Offers Services](#what-are-you-offeringdoing) to customers and having fun projects here
 * born & living in 🇩🇪 (speaking 🇩🇪🇬🇧🇺🇸 every day, learing 🇫🇷🇨🇳🇷🇺 over time)
 
 ## Stats
