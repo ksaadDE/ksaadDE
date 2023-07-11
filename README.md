@@ -33,6 +33,7 @@ Hidden Top langs:
 * in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
 
 ## My current projects (of interest)
+- ![Rust Gotach's - Repository](../../rustgotchas)
 - ![ResultCount Scientific Search Engine Crawler - Repository](../../../resultcount_scientific_search_crawler)
 - ![GTK 4 Python Docs - Code Examples - Repository](../../../GTK4PythonExamples)
 - ![My useful (shell) scripts - Repository](https://github.com/ksaadDE/usefullshellscripts)
@@ -44,7 +45,6 @@ Hidden Top langs:
 ## Nice templates
 - ![Python: Quart and Tortoise-ORM](https://github.com/saaditDE/TestTortoiseQuartApp)
 - ![gcc-6 docker-compose compiling stack](https://github.com/saaditDE/gcc6-docker)
- 
 
 ## Some note worthy PRs:
 - ![Signal Desktop fix - Encrypt DB Key in config.json](https://github.com/signalapp/Signal-Desktop/pull/5465)
