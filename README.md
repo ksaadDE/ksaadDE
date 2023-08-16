@@ -13,7 +13,6 @@ Hidden Top langs:
 - HTML (bc takes too much space)
 - Java (bc only Uni projects)
 
-
 ## What are you offering/doing?
 * IT-Security
 * * Pen Testing & Red Teaming
@@ -28,9 +27,9 @@ Hidden Top langs:
 * * IT-Coaching
 
 ## Any preferences or opinions?
-* FOSS, OS & BUSINESS = <3 
-* prefers working 100% remote and global 
-* in favor of support for our ally 🇺🇦 while protecting 🇩🇪 interests
+* I love Open Source, FOSS and other variants of our more secure future!
+* I love to work 100% remotely, global & having business ethics
+* I'm supporting our ally 🇺🇦 while protecting 🇩🇪 interests
 
 ## My current projects (of interest)
 - ![Rust Gotach's - Repository](../../../rustgotchas)
