@@ -23,10 +23,8 @@ Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Serv
   * Big Data
   * Smart data
 
-## Any preferences or opinions?
-* I love Open Source, FOSS and other variants of our more secure future!
-* I love to work 100% remotely, global & having business ethics
-* I'm supporting our ally 🇺🇦 while protecting 🇩🇪 interests
+## preferences or opinions?
+Do you think democracy is more than a vote? Who doesn't want a more reliable and secure future? We will achieve it together. I prefer to work 100% remotely. I believe in a changing climate. We will find and implement working solutions to counter side-effects of our ancestor's technological development. Our ethics have a deep meaning for me. Without (more or less) strict moral and logical guidelines, telling us what's right and what's wrong, we will eventually end up without lead. Without lead we will have hardships making justified decisions and implementing them. We should support those who seek freedom and defeat oppression, while keeping our own interests in mind. We should never look down on others. Instead we should look everyone in the eyes and reach out, help out and work together. Together we are united, together we stand. 
 
 ## My current projects (of interest)
 - ![Rust Gotach's - Repository](../../../rustgotchas)
