@@ -1,30 +1,27 @@
-### Who is ksaadDE ?
-* Advanced Cyber Expert (+10yrs exp) with a B.Sc. in Informatik (CS+IT) 
-* [Offers Special Services](#what-are-you-offeringdoing) to customers and having [fun projects](#my-current-projects-of-interest) here
-* born & living in 🇩🇪 (speaking 🇩🇪🇬🇧🇺🇸 every day, learing 🇫🇷🇨🇳🇷🇺 over time)
-* has quite a few [opinions & preferences](#any-preferences-or-opinions)
+Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Services](#what-are-you-offeringdoing) to customers and holds quite a few [opinions & preferences](#any-preferences-or-opinions), loves working on [fun projects](#my-current-projects-of-interest),having a B.Sc. in Informatik (CS+IT). I'm learning a few languages (🇫🇷🇨🇳🇷🇺) over time and most of my daily communications are in English and German. 
 
-## What is your activity / are your languages?
+## Alright, show me your activites!
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ksaadDE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaadDE&layout=pie&&hide_progress=true&hide=html,swift,kotlin,java&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
-Hidden Top langs:
-- HTML (bc takes too much space)
-- Java (bc only Uni projects)
+**Hidden Top langs:**
+- HTML (no skill needed)
+- Java (Uni projects)
 
 ## What are you offering/doing?
-* IT-Security
-* * Pen Testing & Red Teaming
-* * Digital Forensics
-* * Offensive CyberOps
-* OSINT
-* Linux Admin
 * Web Development
-* IT-Consulting
-* * Data Science
-* * Big Data & Smart data
-* * IT-Coaching
+* Linux Admin
+* IT-Consulting & IT-Coaching
+* OSINT
+* IT-Security
+  * Pen Testing
+  * Red Teaming
+  * Digital Forensics
+  * Offensive CyberOps
+* Data Science
+  * Big Data
+  * Smart data
 
 ## Any preferences or opinions?
 * I love Open Source, FOSS and other variants of our more secure future!
