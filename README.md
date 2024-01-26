@@ -1,4 +1,4 @@
-Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Services](#what-are-you-offeringdoing) to customers and holds quite a few [opinions & preferences](#any-preferences-or-opinions), loves working on [fun projects](#my-current-projects-of-interest),having a B.Sc. in Informatik (CS+IT). I'm learning a few languages (🇫🇷🇨🇳🇷🇺) over time and most of my daily communications are in English and German. 
+Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Services to customers](#what-are-you-offeringdoing), holding quite a few [opinions & having preferences](#any-preferences-or-opinions), who loves to work on [fun projects](#my-current-projects-of-interest), having a B.Sc. in Informatik (CS+IT), learns a few languages (🇫🇷🇨🇳🇷🇺) over time and who's daily communications are in English and German. 
 
 ## Alright, show me your activites!
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
