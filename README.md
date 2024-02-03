@@ -30,7 +30,7 @@ Is Democracy more than a vote? Does not everyone seek a more reliable, free and 
 - ![Rust Gotach's - Repo](../../../rustgotchas)
 - ![ResultCount Scientific Search Engine Crawler - Repo](../../../resultcount_scientific_search_crawler)
 - ![GTK 4 Python Docs Code Examples - Repo](../../../GTK4PythonExamples)
-- ![Usefulscripts Repo](../../../usefulscripts)
+- ![Usefulscripts - Repo](../../../usefulscripts)
 
 ## Nice to read:
 - ![Wekan Snap TLS writeup - WIKI](https://github.com/wekan/wekan/wiki/Local-self-signed-TLS)
