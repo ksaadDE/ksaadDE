@@ -1,4 +1,4 @@
-Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Services to customers](#what-are-you-offeringdoing), holding quite a few [opinions & having preferences](#any-preferences-or-opinions), who loves to work on [fun projects](#my-current-projects-of-interest), having a B.Sc. in Informatik (CS+IT), learns a few languages (🇫🇷🇨🇳🇷🇺) over time and who's daily communications are in English and German. 
+Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 who offers [Special Services to customers](#what-are-you-offeringdoing) and loves to work on [fun projects](#my-current-projects-of-interest), next to having a B.Sc. in Informatik (CS+IT), learning a few languages (🇫🇷🇨🇳🇷🇺) over time and who's daily communications are in English and German. Feel free to look at [My Mindset](#my-mindset)
 
 ## Alright, show me your activites!
 [![ksaadDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaadDE&&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +23,7 @@ Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Serv
   * Big Data
   * Smart data
 
-## Preferences or Opinions?
+## My mindset
 Is Democracy more than a vote? Does not everyone seek a more reliable, free and secure future? Lets achieve it together. Tomorrow's world will be decentralized, more flexible and less conservative. Lets enjoy 100% remote work with superb financial and social rewards. Tackling climate change and the upcoming, connected catastrophic events. Countering side-effects of our ancestor's technological development by continuing our own development and freedom, implementing the best solutions. Ethics help to distinguish right and wrong, giving lead. Lead making us smart, thus strong. We seek freedom and defeat oppression, while keeping our own interests in sight. We always look into each others' eyes, never down on others. We respect, serve, protect, help and defend each other! Never back down. United we stand, united we thrive.
 
 ## My current projects (of interest)
