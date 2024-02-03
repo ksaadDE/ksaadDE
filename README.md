@@ -27,10 +27,10 @@ Your friendly Cyber Expert (+10 yrs exp) from 🇩🇪 that offers [Special Serv
 Is Democracy more than a vote? Does not everyone seek a more reliable, free and secure future? Lets achieve it together. Tomorrow's world will be decentralized, more flexible and less conservative. Lets enjoy 100% remote work with superb financial and social rewards. Tackling climate change and the upcoming, connected catastrophic events. Countering side-effects of our ancestor's technological development by continuing our own development and freedom, implementing the best solutions. Ethics help to distinguish right and wrong, giving lead. Lead making us smart, thus strong. We seek freedom and defeat oppression, while keeping our own interests in sight. We always look into each others' eyes, never down on others. We respect, serve, protect, help and defend each other! Never back down. United we stand, united we thrive.
 
 ## My current projects (of interest)
-- ![Rust Gotach's - Repository](../../../rustgotchas)
-- ![ResultCount Scientific Search Engine Crawler - Repository](../../../resultcount_scientific_search_crawler)
-- ![GTK 4 Python Docs - Code Examples - Repository](../../../GTK4PythonExamples)
-- ![My useful (shell) scripts - Repository](https://github.com/ksaadDE/usefullshellscripts)
+- ![Rust Gotach's - Repo](../../../rustgotchas)
+- ![ResultCount Scientific Search Engine Crawler - Repo](../../../resultcount_scientific_search_crawler)
+- ![GTK 4 Python Docs Code Examples - Repo](../../../GTK4PythonExamples)
+- ![Usefulscripts Repo](../../../usefulscripts)
 
 ## Nice to read:
 - ![Wekan Snap TLS writeup - WIKI](https://github.com/wekan/wekan/wiki/Local-self-signed-TLS)
